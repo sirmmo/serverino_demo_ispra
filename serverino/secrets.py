@@ -1,0 +1,2 @@
+SENTINEL_SECRET = "gGR#?}79<<rUlBlH42zh@vK~H@odRzU,CKv3[Cn,"
+SENTINEL_ID = "4b6cd191-7d54-4fee-b33d-598bcc0720c7"
